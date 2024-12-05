@@ -6,7 +6,7 @@ from lib import utils
 
 # create spark session
 spark = utils.get_spark_session()
-path = "../data"
+path = "data"
 
 # ingest data to pyspark tables
 df_accounts = data_loader.ingest_accounts(spark=spark, enable_hive=False, hive_db=None, path=path)
@@ -26,7 +26,7 @@ df_clients_accounts_transactions = data_transformer.join_clients_accounts_transa
 # join event information to processed dataframe
 df_events = data_transformer.event_information(spark, df_clients_accounts_transactions)
 
-df_events.toPandas().to_json("../data/test_data/events.json", orient="records")
+df_events.toPandas().to_json("data/test_data/events.json", orient="records")
 
 df_kafka_events = df_events.select(col("client_id").alias("key"),
                                    to_json(struct("*")).alias("value"))
