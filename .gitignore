@@ -7,3 +7,5 @@ venv
 data/*.csv
 data/*.zip
 data/data_raw/
+exp*.py
+main_test.py
