@@ -4,7 +4,7 @@ from lib import data_loader
 from lib import data_transformer
 from pyspark.sql.types import StructType, StructField, StringType, DoubleType, IntegerType, DateType, TimestampType, ArrayType, NullType
 
-path = "../data"
+path = "data"
 
 
 @pytest.fixture(scope='session')
@@ -12,7 +12,6 @@ def spark():
     return utils.get_spark_session()
 
 
-def get_
 def get_events_df():
     event_schema =  StructType([
     StructField("client_id", StringType(), True),
