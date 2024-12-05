@@ -1,0 +1,9 @@
+__pycache__/
+lib/__pycache__/
+.idea/
+.pytest_cache/
+venv
+*.jar
+data/*.csv
+data/*.zip
+data/data_raw/

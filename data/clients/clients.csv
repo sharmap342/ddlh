@@ -1,0 +1,11 @@
+client_id,acc_id,sex,fulldate,day,month,year,age,social,first,middle,last,phone,email,address_1,address_2,city,state,zipcode,district_id,date
+C00002241,A00002499,Male,1946-12-30,30,12,1946,73,512-72-1335,Bryer,Erick,Lugo,388-246-4001,bryer.lugo@outlook.com,420 Mammoth Court,,Charleston,WV,43183,47,1946-12-30
+C00001404,A00003332,Female,1988-12-20,20,12,1988,31,580-83-0172,Kiera,Jessie,Pitts,392-420-5091,kiera.pitts@gmail.com,13 Prospect Ave.,,Nashville,TN,44101,11,1988-12-20
+C00000227,A00008645,Female,1946-12-18,18,12,1946,73,762-42-9620,Bailey,Alexis,Graham,336-342-4327,bailey.graham@gmail.com,8101 Edgemont Ave.,,New Haven,CT,47159,52,1946-12-18
+C00003130,A00001615,Female,1975-05-31,31,5,1975,44,148-40-5835,Taylor,Litzy,Drew,900-188-1971,taylor.litzy.drew@gmail.com,149 Studebaker Drive,,Atlanta,GA,41681,19,1975-05-31
+C00003270,A00001479,Male,1960-01-22,22,1,1960,60,423-06-2935,Mack,Kody,Yang,135-674-4992,mack.yang@gmail.com,7323 Longbranch Street,,Portland,OR,49148,12,1960-01-22
+C00003528,A00001216,Female,1990-10-06,6,10,1990,29,127-75-2006,Regina,Hartley,Ybarra,391-304-3315,regina.ybarra@hotmail.com,7615 Main St.,,New Britain,CT,41961,73,1990-10-06
+C00004171,A00000580,Male,2000-05-18,18,5,2000,19,408-98-0214,Sidney,Jaziel,Acevedo,212-414-4092,sidney.acevedo@outlook.com,830 Old Fairground St.,,New York City,NY,10016,1,2000-05-18
+C00004737,A00000022,Female,2001-06-01,1,6,2001,18,281-99-0824,Jayla,Charlotte,Harper,721-922-7648,jayla.harper@outlook.com,73 SW. Trusel Dr.,,New Orleans,LA,40962,24,2001-06-01
+C00000535,A00004852,Male,1957-09-09,9,9,1957,62,674-11-0161,Cash,Tytan,Rios,127-670-7548,cash.rios@hotmail.com,418 Beacon Street,,Honolulu,HI,49174,26,1957-09-09
+C00003883,A00000866,Male,1985-09-27,27,9,1985,34,603-07-0367,Cristopher,Blaise,Orozco,103-109-2313,cristopher.orozco@gmail.com,9341 Glendale Court,,Albuquerque,NM,40190,18,1985-09-27
